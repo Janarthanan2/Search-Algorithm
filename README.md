@@ -45,6 +45,7 @@ iii)	# Find the element in a list using Binary Search (recursive Method).
 
 ![Screenshot 2023-06-09 204318](https://github.com/Janarthanan2/Search-Algorithm/assets/119393515/81384b39-f9bf-41a7-94f0-612cf7a3640a)
 
+![Screenshot 2023-06-09 204506](https://github.com/Janarthanan2/Search-Algorithm/assets/119393515/178140c8-629b-458e-a367-75f3361cc849)
 
 
 
