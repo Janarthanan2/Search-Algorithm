@@ -46,8 +46,9 @@ ii)	# Find the element in a list using Binary Search(Iterative Method).
 ```
 ''' 
 Program to find the element in a list using Binary Search(Iterative Method)..
-Developed by: ADHITHYARAM 
-RegisterNumber: 212222230008 
+Developed by: JANARTHANAN V K
+RegisterNumber: 212222230051
+ 
 '''
 def binarySearchIter(array, k, low, high):
     while low<=high:
@@ -77,8 +78,9 @@ iii)	# Find the element in a list using Binary Search (recursive Method).
 ```
 ''' 
 Program to find the element in a list using Binary Search (recursive Method).
-Developed by: ADHITHYARAM D
-RegisterNumber: 212222230008
+Developed by: JANARTHANAN V K
+RegisterNumber: 212222230051
+
 '''
 def BinarySearch(array, k, low, high):
     if high>=low:
